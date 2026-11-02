@@ -3,6 +3,7 @@ package com.aurora.launcher
 import android.app.Activity
 import android.app.ActivityOptions
 import android.content.*
+import android.content.pm.PackageManager
 import android.graphics.Color
 import android.graphics.Outline
 import android.graphics.Typeface
